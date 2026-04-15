@@ -1,0 +1,2 @@
+[console_scripts]
+server = hallucinations.server.app:main
