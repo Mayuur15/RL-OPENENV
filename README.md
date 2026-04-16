@@ -1,12 +1,5 @@
----
-title: Hallucinations
-emoji: 🔍
-colorFrom: blue
-colorTo: red
-sdk: docker
-pinned: false
----
-# FactCheck Environment 🔍
+
+# FactCheck Environment 
 
 > **Meta PyTorch OpenEnv Hackathon 2026**  
 > Real-world task: LLM fact-checking with sycophancy pressure detection.
